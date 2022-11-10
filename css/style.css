@@ -21,27 +21,29 @@ footer {
 }
 
 .a {
-
+  background-image: url("E:/UDEMY (finished)/The Complete 2022 Web Development Bootcamp/S13 Drum Kit-Event Listeners/S13-Drum-Kit-Event-Listeners-webdev-/images/tom2.png");
 }
+
 
 .s {
-
+  background-image: url("E:/UDEMY (finished)/The Complete 2022 Web Development Bootcamp/S13 Drum Kit-Event Listeners/S13-Drum-Kit-Event-Listeners-webdev-/images/tom3.png");
 }
 
-.d {
 
+.d {
+  background-image: url("E:/UDEMY (finished)/The Complete 2022 Web Development Bootcamp/S13 Drum Kit-Event Listeners/S13-Drum-Kit-Event-Listeners-webdev-/images/tom4.png");
 }
 
 .j {
-
+  background-image: url("E:/UDEMY (finished)/The Complete 2022 Web Development Bootcamp/S13 Drum Kit-Event Listeners/S13-Drum-Kit-Event-Listeners-webdev-/images/snare.png");
 }
 
 .k {
-
+  background-image: url("E:/UDEMY (finished)/The Complete 2022 Web Development Bootcamp/S13 Drum Kit-Event Listeners/S13-Drum-Kit-Event-Listeners-webdev-/images/crash.png");
 }
 
 .l {
-
+  background-image: url("E:/UDEMY (finished)/The Complete 2022 Web Development Bootcamp/S13 Drum Kit-Event Listeners/S13-Drum-Kit-Event-Listeners-webdev-/images/kick.png");
 }
 
 .set {
