@@ -1,1 +1,5 @@
-alert("hi")
+
+
+function handleClick() {
+  alert("I got clicked")
+}
