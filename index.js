@@ -46,11 +46,8 @@ for (var i = 0; i<numberOfDrumButtons; i++) {
           var audio = new Audio("sounds/kick-bass.mp3");
           audio.play();
           break;
-        
 
-
-
-      default:
+      default: console.log(buttonInnerHTML);
 
     }
 
